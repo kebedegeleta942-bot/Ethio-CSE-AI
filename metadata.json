@@ -1,0 +1,6 @@
+{
+  "name": "EthioCSE Career & Life Copilot",
+  "description": "Personal AI life, CSE career, freelancing, and 12-month engineering roadmap copilot for 4th-year Ethiopian Computer Science & Engineering students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
