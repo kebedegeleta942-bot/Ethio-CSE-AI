@@ -179,5 +179,5 @@ This project is currently under development. Licensing and contribution terms wi
 ---
 
 <p align="center">
-  **Ethio CSE AI — Learn. Build. Innovate. 🇪🇹**
+  Ethio CSE AI — Learn. Build. Innovate. 🇪🇹
 </p>
